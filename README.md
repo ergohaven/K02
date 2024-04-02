@@ -1,4 +1,4 @@
-## K:02 ergonomic split mechanical keyboard K:02 with 5 thumb keys on each half
+## K:02 is an ergonomic split mechanical keyboard with 5 thumb keys on each half
 
 ![K:02](images/01.jpg)
 
